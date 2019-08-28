@@ -6,4 +6,4 @@
 
 Network data from Highways England are now freely available [here](http://tris.highwaysengland.co.uk/detail/trafficflowdata). At the time of my PhD, a written permission was required to access their data (which seems to be no longer required). 
 
-Please check the paper for details on the data used and node network terminology used in the code.
+Please check the paper for details on the data used and network definitions used in the code.
